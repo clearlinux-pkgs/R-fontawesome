@@ -4,7 +4,7 @@
 #
 Name     : R-fontawesome
 Version  : 0.2.2
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/fontawesome_0.2.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fontawesome_0.2.2.tar.gz
 Summary  : Easily Work with 'Font Awesome' Icons
